@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nancyihechu
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Visualistion with matplotlib
+- 🌱 I’m currently learning at Data Science and Artificial Intelligence at Tech4dev 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me nancyihechu@gmail.com
 
