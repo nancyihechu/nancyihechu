@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nancyihechu
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning at Data Science and Artificial Intelligence at Tech4dev 
-- 💞️ I’m looking to collaborate on Projects
+- 👀 I’m Interested in computational Chemistry, drug discovery and development 
+- 🌱 currently learning Chemoinformatics at the University Of Ljubljana Slovenia (M1)
+- 💞️ I look forward to collaborating on as many Projects as possible
 - 📫 How to reach me nancyihechu@gmail.com
 
 <!---
