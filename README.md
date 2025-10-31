@@ -1,12 +1,9 @@
-### Hi there, I'm Nancy Ihechu! 👋
+Hi there, I'm Nancy Ihechu! 👋
 
-I am passionate about **Computational Chemistry**, **Drug Discovery**, and **Chemoinformatics**. I was fortunate to be selected for the prestigious **Erasmus Mundus double degree program** in **Chemistry** and **Chemoinformatics**, which has allowed me to explore my passion for both disciplines.
+I’m a Computational Chemist passionate about drug discovery, molecular modeling, and chemoinformatics. I hold an Erasmus Mundus double master’s degree in Chemistry and Chemoinformatics from the University of Ljubljana (Slovenia) and the University of Strasbourg (France).
 
-- 🌟 I successfully completed my **M1 in Chemistry** at the University of Ljubljana, Slovenia.
-- 📚 I am currently pursuing my **M2 in Chemoinformatics** at the University of Strasbourg, France.
-- 💼 Here on my GitHub, you’ll find projects I've worked on during my studies, where I've gained hands-on experience in Chemoinformatics, and the exciting projects I am passionate about.
+Currently, I’m a Graduate Research Assistant at the University of Missouri, Columbia, working on computational drug discovery for Parkinson’s disease, specifically targeting the WD40 domain of LRRK2. My work involves molecular dynamics simulations using GROMACS to study ligand–protein interactions and guide lead optimization.
 
-I’m always excited to collaborate on new projects, especially those related to **computational drug discovery**, **molecular modeling**, and **data science**. Feel free to reach out if you’d like to collaborate or discuss ideas!
+Here on my GitHub, you’ll find projects reflecting my journey in computational chemistry and drug design. I’m always open to collaborations and discussions in these fields.
 
-### How to reach me:
 📫 Email: nancyihechu@gmail.com
